@@ -250,17 +250,17 @@ Mulailah berkontribusi di berbagai repository di github
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Intan-Safitri">
+            <img src="https://avatars.githubusercontent.com/u/67524284?v=4" width="100;" alt="Intan-Safitri"/>
+            <br />
+            <sub><b>Miftakul Azizi </b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mudzikalfahri">
             <img src="https://avatars.githubusercontent.com/u/63131698?v=4" width="100;" alt="mudzikalfahri"/>
             <br />
             <sub><b>Mudzik Al Fahri</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/nenofetch">
-            <img src="https://avatars.githubusercontent.com/u/22952560?v=4" width="100;" alt="nenofetch"/>
-            <br />
-            <sub><b>Neno Arisma</b></sub>
         </a>
     </td></tr>
 </table>
